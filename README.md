@@ -11,11 +11,13 @@
 </div>
 
 ## My progress
-![Snake animation](https://github.com/IngNex/IngNex/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
 
+![Snake animation](https://github.com/IngNex/IngNex/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ## My networks
-<table>
+<table align="center">
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
