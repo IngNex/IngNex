@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/ingnex">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ingnex&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ingnex&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ## My progress
@@ -23,28 +23,28 @@
       <td width="20%" align="center">
         <a href="https://www.linkedin.com/in/michaelrogger/" target="_blank">
           <br/>
-          <img height="100em" src="https://cdn.svgporn.com/logos/linkedin-icon.svg">
+          <img height="80em" src="https://cdn.svgporn.com/logos/linkedin-icon.svg">
           <br/><br/><b>LinkedIn</b>
         </a>
       </td>
       <td width="20%" align="center">
         <a href="mailto:michaelrogger.contacto@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
           <br/>
-          <img height="100em" src="https://cdn.svgporn.com/logos/google-gmail.svg">
+          <img height="80em" src="https://cdn.svgporn.com/logos/google-gmail.svg">
           <br/><br/><b>Gmail</b>
         </a>
       </td>
       <td width="20%" align="center">
         <a href="mailto:maicol7090_rm@hotmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
           <br/>
-          <img height="100em" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg">
+          <img height="80em" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg">
           <br/><br/><b>Outlook</b>
         </a>
       </td>
       <td width="20%" align="center">
         <a href="https://platzi.com/p/ingnexmaicol14/" target="_blank">
           <br/>
-          <img height="100em" src="https://static.platzi.com/media/platzi-isotipo@2x.png">
+          <img height="80em" src="https://static.platzi.com/media/platzi-isotipo@2x.png">
           <br/><br/><b>Platzi</b>
         </a>
       </td>
