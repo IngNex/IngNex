@@ -111,7 +111,7 @@
       <td width="10%" align="center">
         <a href="mailto:maicol7090_rm@hotmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
           <br/>
-          <img height="80em" src="https://cdn.svgporn.com/logos/react.svg">
+          <img height="80em" src="https://cdn.svgporn.com/logos/android-vertical.svg">
         </a>
       </td>
       <td width="10%" align="center">
