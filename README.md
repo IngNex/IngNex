@@ -20,34 +20,32 @@
 <table align="center">
   <tbody>
     <tr valign="top">
-      <td width="20%" align="center">
+      <td width="10%" align="center">
         <a href="https://www.linkedin.com/in/michaelrogger/" target="_blank">
-          <br/><img height="80em" src="https://cdn.svgporn.com/logos/linkedin-icon.svg">
-          <br/><br/><b>LinkedIn</b>
+          <img height="50em" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"><b>LinkedIn</b>
         </a>
       </td>
-      <td width="20%" align="center">
+      <td width="10%" align="center">
         <a href="mailto:michaelrogger.contacto@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
-          <br/><img height="80em" src="https://cdn.svgporn.com/logos/google-gmail.svg">
-          <br/><br/><b>Gmail</b>
+          <img height="50em" src="https://cdn.svgporn.com/logos/google-gmail.svg"><b>Gmail</b>
         </a>
       </td>
-      <td width="20%" align="center">
+      <td width="10%" align="center">
         <a href="mailto:maicol7090_rm@hotmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
-          <br/><img height="80em" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg">
-          <br/><br/><b>Outlook</b>
+          <img height="50em" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg">
+          <b>Outlook</b>
         </a>
       </td>
-      <td width="20%" align="center">
+      <td width="10%" align="center">
         <a href="https://platzi.com/p/ingnexmaicol14/" target="_blank">
-          <br/><img height="80em" src="https://static.platzi.com/media/platzi-isotipo@2x.png">
-          <br/><br/><b>Platzi</b>
+          <img height="50em" src="https://static.platzi.com/media/platzi-isotipo@2x.png">
+          <b>Platzi</b>
         </a>
       </td>
-      <td width="20%" align="center">
+      <td width="10%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="80em" src="https://cdn.svgporn.com/logos/github-octocat.svg">
-          <br/><br/><b>Github</b>
+          <img height="50em" src="https://cdn.svgporn.com/logos/github-octocat.svg">
+          <b>Github</b>
         </a>
       </td>
     </tr>
@@ -55,7 +53,7 @@
 </table>
 
 ## Tools I Use
-<table align="center" background=red >
+<table align="center" background="red" >
   <tbody>
     <tr valign="top">
       <td width="10%" align="center">
