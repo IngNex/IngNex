@@ -84,46 +84,37 @@
       </td>
       <td width="10%" align="center">
         <a href="https://platzi.com/p/ingnexmaicol14/" target="_blank">
-          <br/>
-          <img height="80em" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
-        </a>
+          <br/><img height="80em" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></a>
       </td>
       <td width="10%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/>
-          <img height="100em" src="https://cdn.svgporn.com/logos/flutter.svg">
-        </a>
+          <br/><img height="100em" src="https://cdn.svgporn.com/logos/flutter.svg"></a>
       </td>
     </tr>
     <tr valign="top">
       <td width="10%" align="center">
         <a href="https://www.linkedin.com/in/michaelrogger/" target="_blank">
-          <br/>
-          <img height="80em" src="https://cdn.svgporn.com/logos/figma.svg">
+          <br/><img height="80em" src="https://cdn.svgporn.com/logos/figma.svg">
         </a>
       </td>
       <td width="10%" align="center">
         <a href="mailto:michaelrogger.contacto@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
-          <br/>
-          <img height="80em" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+          <br/><img height="80em" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
         </a>
       </td>
       <td width="10%" align="center">
         <a href="mailto:maicol7090_rm@hotmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
-          <br/>
-          <img height="80em" src="https://cdn.svgporn.com/logos/android-vertical.svg">
+          <br/><img height="80em" src="https://cdn.svgporn.com/logos/android-vertical.svg">
         </a>
       </td>
       <td width="10%" align="center">
         <a href="https://platzi.com/p/ingnexmaicol14/" target="_blank">
-          <br/>
-          <img height="80em" src="https://cdn.svgporn.com/logos/php.svg">
+          <br/><img height="80em" src="https://cdn.svgporn.com/logos/php.svg">
         </a>
       </td>
       <td width="10%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/>
-          <img height="100em" src="https://cdn.svgporn.com/logos/cpanel.svg">
+          <br/><img height="100em" src="https://cdn.svgporn.com/logos/cpanel.svg">
         </a>
       </td>
     </tr>
