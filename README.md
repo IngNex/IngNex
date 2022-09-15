@@ -94,8 +94,7 @@
       <td width="10%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
           <br/>
-          <img height="100em" src="https://cdn.svgporn.com/logos/github-octocat.svg">
-          <br/><br/><b>Github</b>
+          <img height="100em" src="https://cdn.svgporn.com/logos/flutter.svg">
         </a>
       </td>
     </tr>
