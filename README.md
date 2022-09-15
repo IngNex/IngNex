@@ -66,15 +66,13 @@
       <td width="10%" align="center">
         <a href="https://www.linkedin.com/in/michaelrogger/" target="_blank">
           <br/>
-          <img height="80em" src="https://cdn.svgporn.com/logos/linkedin-icon.svg">
-          <br/><br/><b>LinkedIn</b>
+          <img height="80em" src="https://cdn.svgporn.com/logos/dart.svg">
         </a>
       </td>
       <td width="10%" align="center">
         <a href="mailto:michaelrogger.contacto@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
           <br/>
-          <img height="80em" src="https://cdn.svgporn.com/logos/google-gmail.svg">
-          <br/><br/><b>Gmail</b>
+          <img height="80em" src="https://cdn.svgporn.com/logos/javascript.svg">
         </a>
       </td>
       <td width="10%" align="center">
@@ -87,14 +85,45 @@
       <td width="10%" align="center">
         <a href="https://platzi.com/p/ingnexmaicol14/" target="_blank">
           <br/>
-          <img height="80em" src="https://cdn.svgporn.com/logos/javascript.svg">
-          <br/><br/><b>Platzi</b>
+          <img height="80em" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
         </a>
       </td>
       <td width="10%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
           <br/>
           <img height="100em" src="https://cdn.svgporn.com/logos/flutter.svg">
+        </a>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="10%" align="center">
+        <a href="https://www.linkedin.com/in/michaelrogger/" target="_blank">
+          <br/>
+          <img height="80em" src="https://cdn.svgporn.com/logos/figma.svg">
+        </a>
+      </td>
+      <td width="10%" align="center">
+        <a href="mailto:michaelrogger.contacto@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
+          <br/>
+          <img height="80em" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+        </a>
+      </td>
+      <td width="10%" align="center">
+        <a href="mailto:maicol7090_rm@hotmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
+          <br/>
+          <img height="80em" src="https://cdn.svgporn.com/logos/react.svg">
+        </a>
+      </td>
+      <td width="10%" align="center">
+        <a href="https://platzi.com/p/ingnexmaicol14/" target="_blank">
+          <br/>
+          <img height="80em" src="https://cdn.svgporn.com/logos/php.svg">
+        </a>
+      </td>
+      <td width="10%" align="center">
+        <a href="https://github.com/IngNex" target="_blank">
+          <br/>
+          <img height="100em" src="https://cdn.svgporn.com/logos/cpanel.svg">
         </a>
       </td>
     </tr>
