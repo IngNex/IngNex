@@ -8,7 +8,6 @@
   <a href="https://github.com/ingnex">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ingnex&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&layout=compact&langs_count=7&theme=github_dark"/>
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=ingnex&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="IngNex" />
 </div>
 
 ## My progress
@@ -106,3 +105,6 @@
     </tr>
   </tbody>
 </table>
+<div align="center">
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=ingnex&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="IngNex" />
+</div>
