@@ -59,19 +59,16 @@
   <tbody>
     <tr valign="top">
       <td width="10%" align="center">
-        <a href="https://www.linkedin.com/in/michaelrogger/" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/dart.svg">
-        </a>
-      </td>
-      <td width="10%" align="center">
-        <a href="mailto:michaelrogger.contacto@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/javascript.svg">
-        </a>
+       <a href="mailto:michaelrogger.contacto@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
+          <br/><img height="50em" src="https://cdn.svgporn.com/logos/javascript.svg"></a>
       </td>
       <td width="10%" align="center">
         <a href="mailto:maicol7090_rm@hotmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/react.svg"><br/>
-        </a>
+          <br/><img height="50em" src="https://cdn.svgporn.com/logos/react.svg"><br/></a>
+      </td>
+      <td width="10%" align="center">
+        <a href="https://platzi.com/p/ingnexmaicol14/" target="_blank">
+          <br/><img height="50em" src="https://cdn.svgporn.com/logos/php.svg"></a>
       </td>
       <td width="10%" align="center">
         <a href="https://platzi.com/p/ingnexmaicol14/" target="_blank">
@@ -79,30 +76,31 @@
       </td>
       <td width="10%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/flutter.svg"></a>
+          <br/><img height="50em" src="https://cdn.svgporn.com/logos/cpanel.svg"></a>
       </td>
     </tr>
     <tr valign="top">
       <td width="10%" align="center">
-        <a href="https://www.linkedin.com/in/michaelrogger/" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/figma.svg">
+         <a href="https://www.linkedin.com/in/michaelrogger/" target="_blank">
+          <br/><img height="50em" src="https://cdn.svgporn.com/logos/dart.svg">
         </a>
       </td>
       <td width="10%" align="center">
-        <a href="mailto:michaelrogger.contacto@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/c-plusplus.svg"></a>
+        <a href="https://github.com/IngNex" target="_blank">
+          <br/><img height="50em" src="https://cdn.svgporn.com/logos/flutter.svg"></a>
       </td>
       <td width="10%" align="center">
         <a href="mailto:maicol7090_rm@hotmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/android-vertical.svg"></a>
       </td>
       <td width="10%" align="center">
-        <a href="https://platzi.com/p/ingnexmaicol14/" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/php.svg"></a>
+          <a href="mailto:michaelrogger.contacto@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
+          <br/><img height="50em" src="https://cdn.svgporn.com/logos/c-plusplus.svg"></a>
       </td>
       <td width="10%" align="center">
-        <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/cpanel.svg"></a>
+        <a href="https://www.linkedin.com/in/michaelrogger/" target="_blank">
+          <br/><img height="50em" src="https://cdn.svgporn.com/logos/figma.svg">
+        </a>
       </td>
     </tr>
   </tbody>
