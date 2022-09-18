@@ -21,23 +21,24 @@
 <div align="center">
   <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+<br/>
 <table align="center">
   <tbody>
     <tr valign="top">
       <td width="10%" align="center">
-       <a href="mailto:michaelrogger.contacto@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
+       <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/html-5.svg"></a>
       </td>
       <td width="10%" align="center">
-        <a href="mailto:maicol7090_rm@hotmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
+        <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/css-3.svg"><br/></a>
       </td>
       <td width="10%" align="center">
-        <a href="https://platzi.com/p/ingnexmaicol14/" target="_blank">
+        <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/javascript.svg"></a>
       </td>
       <td width="10%" align="center">
-        <a href="https://platzi.com/p/ingnexmaicol14/" target="_blank">
+        <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/react.svg"></a>
       </td>
       <td width="10%" align="center">
@@ -47,7 +48,31 @@
     </tr>
     <tr valign="top">
       <td width="10%" align="center">
-         <a href="https://www.linkedin.com/in/michaelrogger/" target="_blank">
+         <a href="https://github.com/IngNex" target="_blank">
+          <br/><img height="50em" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        </a>
+      </td>
+      <td width="10%" align="center">
+        <a href="https://github.com/IngNex" target="_blank">
+          <br/><img height="50em" src="https://cdn.svgporn.com/logos/postman-icon.svg"></a>
+      </td>
+      <td width="10%" align="center">
+        <a href="https://github.com/IngNex" target="_blank">
+          <br/><img height="50em" src="https://cdn.svgporn.com/logos/vitejs.svg"></a>
+      </td>
+      <td width="10%" align="center">
+          <a href="https://github.com/IngNex" target="_blank">
+          <br/><img height="50em" src="https://cdn.svgporn.com/logos/mysql.svg"></a>
+      </td>
+      <td width="10%" align="center">
+        <a href="https://github.com/IngNex" target="_blank">
+          <br/><img height="50em" src="https://cdn.svgporn.com/logos/xampp.svg">
+        </a>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="10%" align="center">
+         <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/dart.svg">
         </a>
       </td>
@@ -56,22 +81,22 @@
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/flutter.svg"></a>
       </td>
       <td width="10%" align="center">
-        <a href="mailto:maicol7090_rm@hotmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
+        <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/android-vertical.svg"></a>
       </td>
       <td width="10%" align="center">
-          <a href="mailto:michaelrogger.contacto@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
+          <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/figma.svg"></a>
       </td>
       <td width="10%" align="center">
-        <a href="https://www.linkedin.com/in/michaelrogger/" target="_blank">
+        <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/cpanel.svg">
         </a>
       </td>
     </tr>
     <tr valign="top">
       <td width="10%" align="center">
-         <a href="https://www.linkedin.com/in/michaelrogger/" target="_blank">
+         <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
         </a>
       </td>
@@ -80,15 +105,15 @@
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></a>
       </td>
       <td width="10%" align="center">
-        <a href="mailto:maicol7090_rm@hotmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
+        <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/python.svg"></a>
       </td>
       <td width="10%" align="center">
-          <a href="mailto:michaelrogger.contacto@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
+          <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/java.svg"></a>
       </td>
       <td width="10%" align="center">
-        <a href="https://www.linkedin.com/in/michaelrogger/" target="_blank">
+        <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
         </a>
       </td>
