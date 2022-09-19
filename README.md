@@ -46,10 +46,6 @@
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></a>
       </td>
       <td width="10%" align="center">
-          <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/mysql.svg"></a>
-      </td>
-      <td width="10%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/php.svg"></a>
       </td>
@@ -91,11 +87,6 @@
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/xampp.svg">
         </a>
       </td>
-      <td width="10%" align="center">
-        <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-        </a>
-      </td>
     </tr>
     <tr valign="top">
       <td width="10%" align="center">
@@ -111,16 +102,10 @@
         <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/android-vertical.svg"></a>
       </td>
-    </tr>
-    <tr valign="top">
       <td width="10%" align="center">
          <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
         </a>
-      </td>
-      <td width="10%" align="center">
-        <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></a>
       </td>
       <td width="10%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
@@ -130,7 +115,11 @@
           <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/java.svg"></a>
       </td>
-      
+      <td width="10%" align="center">
+        <a href="https://github.com/IngNex" target="_blank">
+          <br/><img height="50em" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
