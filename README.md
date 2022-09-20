@@ -18,11 +18,11 @@
 
 ## Tools I Use
 
-<div align="left">
-  <div>
+<div align="center">
   <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-  </div>
-<table >
+</div>
+<br/>
+<table align="center" >
   <tbody>
     <tr valign="top">
       <td width="8%" align="center">
@@ -123,7 +123,6 @@
     </tr>
   </tbody>
 </table>
-</div>
   
 ## My networks
 <table align="center">
