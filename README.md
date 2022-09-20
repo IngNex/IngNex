@@ -89,35 +89,35 @@
       </td>
     </tr>
     <tr valign="top">
-      <td width="10%" align="center">
+      <td width="8%" align="center">
          <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/dart.svg">
+          <br/><img height="40em" src="https://cdn.svgporn.com/logos/dart.svg">
         </a>
       </td>
-      <td width="10%" align="center">
+      <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/flutter.svg"></a>
+          <br/><img height="40em" src="https://cdn.svgporn.com/logos/flutter.svg"></a>
       </td>
-      <td width="10%" align="center">
+      <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/android-vertical.svg"></a>
+          <br/><img height="40em" src="https://cdn.svgporn.com/logos/android-vertical.svg"></a>
       </td>
-      <td width="10%" align="center">
+      <td width="8%" align="center">
          <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+          <br/><img height="40em" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
         </a>
       </td>
-      <td width="10%" align="center">
+      <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/django-icon.svg"></a>
+          <br/><img height="40em" src="https://cdn.svgporn.com/logos/django-icon.svg"></a>
       </td>
-      <td width="10%" align="center">
+      <td width="8%" align="center">
           <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/java.svg"></a>
+          <br/><img height="40em" src="https://cdn.svgporn.com/logos/java.svg"></a>
       </td>
-      <td width="10%" align="center">
+      <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+          <br/><img height="40em" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
         </a>
       </td>
     </tr>
