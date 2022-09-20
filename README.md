@@ -27,31 +27,31 @@
     <tr valign="top">
       <td width="8%" align="center">
        <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/html-5.svg"></a>
+          <img height="40em" src="https://cdn.svgporn.com/logos/html-5.svg"></a>
       </td>
       <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/css-3.svg"><br/></a>
+          <img height="40em" src="https://cdn.svgporn.com/logos/css-3.svg"><br/></a>
       </td>
       <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/javascript.svg"></a>
+          <img height="40em" src="https://cdn.svgporn.com/logos/javascript.svg"></a>
       </td>
       <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/react.svg"></a>
+          <img height="40em" src="https://cdn.svgporn.com/logos/react.svg"></a>
       </td>
       <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></a>
+          <img height="40em" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></a>
       </td>
       <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/php.svg"></a>
+          <img height="40em" src="https://cdn.svgporn.com/logos/php.svg"></a>
       </td>
       <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/cpanel.svg">
+          <img height="40em" src="https://cdn.svgporn.com/logos/cpanel.svg">
         </a>
       </td>
     </tr>
