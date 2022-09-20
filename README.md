@@ -7,8 +7,8 @@
 ## My progress
 <div align="center">
   <a href="https://github.com/ingnex">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ingnex&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=ingnex&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="IngNex" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ingnex&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=ingnex&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" alt="IngNex" />
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 ## Tools I Use
 
 <div align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&layout=compact&langs_count=7&theme=github_dark"/>
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 <br/>
 <table align="center">
