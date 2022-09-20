@@ -25,33 +25,33 @@
 <table align="center">
   <tbody>
     <tr valign="top">
-      <td width="10%" align="center">
+      <td width="8%" align="center">
        <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="40em" src="https://cdn.svgporn.com/logos/html-5.svg"></a>
       </td>
-      <td width="10%" align="center">
+      <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="40em" src="https://cdn.svgporn.com/logos/css-3.svg"><br/></a>
       </td>
-      <td width="10%" align="center">
+      <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="50em" src="https://cdn.svgporn.com/logos/javascript.svg"></a>
       </td>
-      <td width="10%" align="center">
+      <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/react.svg"></a>
+          <br/><img height="40em" src="https://cdn.svgporn.com/logos/react.svg"></a>
       </td>
-      <td width="10%" align="center">
+      <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></a>
+          <br/><img height="40em" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></a>
       </td>
-      <td width="10%" align="center">
+      <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/php.svg"></a>
+          <br/><img height="40em" src="https://cdn.svgporn.com/logos/php.svg"></a>
       </td>
-      <td width="10%" align="center">
+      <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="50em" src="https://cdn.svgporn.com/logos/cpanel.svg">
+          <br/><img height="40em" src="https://cdn.svgporn.com/logos/cpanel.svg">
         </a>
       </td>
     </tr>
