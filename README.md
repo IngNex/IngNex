@@ -91,33 +91,33 @@
     <tr valign="top">
       <td width="8%" align="center">
          <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/dart.svg">
+          <img height="40em" src="https://cdn.svgporn.com/logos/dart.svg">
         </a>
       </td>
       <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/flutter.svg"></a>
+          <img height="40em" src="https://cdn.svgporn.com/logos/flutter.svg"></a>
       </td>
       <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/android-vertical.svg"></a>
+          <img height="40em" src="https://cdn.svgporn.com/logos/android-vertical.svg"></a>
       </td>
       <td width="8%" align="center">
          <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+          <img height="40em" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
         </a>
       </td>
       <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/django-icon.svg"></a>
+          <img height="40em" src="https://cdn.svgporn.com/logos/django-icon.svg"></a>
       </td>
       <td width="8%" align="center">
           <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/java.svg"></a>
+          <img height="40em" src="https://cdn.svgporn.com/logos/java.svg"></a>
       </td>
       <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+          <img height="40em" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
         </a>
       </td>
     </tr>
