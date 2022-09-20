@@ -56,7 +56,7 @@
       </td>
     </tr>
     <tr valign="top">
-      <td width="10%" align="center">
+      <td width="8%" align="center">
          <a href="https://github.com/IngNex" target="_blank">
           <img height="40em" src="https://cdn.svgporn.com/logos/git-icon.svg">
         </a>
