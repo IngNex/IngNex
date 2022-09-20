@@ -58,33 +58,33 @@
     <tr valign="top">
       <td width="10%" align="center">
          <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/git-icon.svg">
+          <img height="40em" src="https://cdn.svgporn.com/logos/git-icon.svg">
         </a>
       </td>
       <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/postman-icon.svg"></a>
+          <img height="40em" src="https://cdn.svgporn.com/logos/postman-icon.svg"></a>
       </td>
       <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/vitejs.svg"></a>
+          <img height="40em" src="https://cdn.svgporn.com/logos/vitejs.svg"></a>
       </td>
       <td width="8%" align="center">
           <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/figma.svg"></a>
+          <img height="40em" src="https://cdn.svgporn.com/logos/figma.svg"></a>
       </td>
       <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/python.svg">
+          <img height="40em" src="https://cdn.svgporn.com/logos/python.svg">
         </a>
       </td>
       <td width="8%" align="center">
           <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/mysql.svg"></a>
+          <img height="40em" src="https://cdn.svgporn.com/logos/mysql.svg"></a>
       </td>
       <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
-          <br/><img height="40em" src="https://cdn.svgporn.com/logos/xampp.svg">
+          <img height="40em" src="https://cdn.svgporn.com/logos/xampp.svg">
         </a>
       </td>
     </tr>
