@@ -18,11 +18,9 @@
 
 ## Tools I Use
 
-<div align="center">
+<div align="left">
   <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-
-<br/>
-<table align="center">
+<table align="left">
   <tbody>
     <tr valign="top">
       <td width="8%" align="center">
