@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/ingnex">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ingnex&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=ingnex&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="IngNex" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=ingnex&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="IngNex" />
 </div>
 
 <div align="center">
