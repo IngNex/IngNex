@@ -169,8 +169,7 @@
     <tr valign="top">
       <td width="20%" align="center">
         <a href="https://www.linkedin.com/in/michaelrogger/" target="_blank">
-          <br/><img height="80em" src="https://cdn.svgporn.com/logos/linkedin-icon.svg">
-          <br/><br/><b>LinkedIn</b>
+          <br/><img height="20em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
       </td>
       <td width="20%" align="center">
@@ -181,13 +180,11 @@
       <td width="20%" align="center">
         <a href="mailto:maicol7090_rm@hotmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
           <br/><img height="80em" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg">
-          <br/><br/><b>Outlook</b>
         </a>
       </td>
       <td width="20%" align="center">
         <a href="https://platzi.com/p/ingnexmaicol14/" target="_blank">
           <br/><img height="80em" src="https://static.platzi.com/media/platzi-isotipo@2x.png">
-          <br/><br/><b>Platzi</b>
         </a>
       </td>
       <td width="20%" align="center">
