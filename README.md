@@ -21,7 +21,8 @@
 ## 🚀 Tools I Use 
 
 <div align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&theme=chartreuse-dark"/>
 </div>
 <br/>
 <table align="center">
