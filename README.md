@@ -179,16 +179,6 @@
         </a>
       </td>
       <td width="20%" align="center">
-        <a href="mailto:maicol7090_rm@hotmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
-          <br/><img height="80em" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg">
-        </a>
-      </td>
-      <td width="20%" align="center">
-        <a href="https://platzi.com/p/ingnexmaicol14/" target="_blank">
-          <br/><img height="80em" src="https://static.platzi.com/media/platzi-isotipo@2x.png">
-        </a>
-      </td>
-      <td width="20%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="20em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
         </a>
