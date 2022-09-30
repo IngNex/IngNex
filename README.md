@@ -19,7 +19,7 @@
    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
-## 👨‍💻 GitHubContributions
+## 👨‍💻 GitHub Contributions
 <div align="center">
 
 ![Snake animation](https://github.com/IngNex/IngNex/blob/output/github-contribution-grid-snake.svg)
