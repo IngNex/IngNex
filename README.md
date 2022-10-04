@@ -13,16 +13,17 @@
   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=ingnex&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" alt="IngNex" />
 </div>
 
-## 📊 Use Lenguages
-<div align="center">
-  <img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&theme=chartreuse-dark"/>
-   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
-
 ## 👨‍💻 GitHub Contributions
 <div align="center">
 
 ![Snake animation](https://github.com/IngNex/IngNex/blob/output/github-contribution-grid-snake.svg)
+</div>
+  
+ 
+## 📊 Use Lenguages
+<div align="center">
+  <img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&theme=chartreuse-dark"/>
+   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 ## 🚀 Tools I Use
