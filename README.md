@@ -1,12 +1,12 @@
 ## Hi..!! I'm Michael Rodriguez 😁👨🏻‍🎓
 ### Nickcode IngNex🐺
 
-## 👨🏻‍🎓 Study systems engineering
+## 👨🏻‍🎓 Study Systems Engineering
 
 - I'm a Frontend Developer. 📊
 - I'll be a Future Mobile Developer. ⚡
 
-## 💻 My progress 
+## 💻 My Progress 
 <div align="center">
   <a href="https://github.com/ingnex">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ingnex&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
