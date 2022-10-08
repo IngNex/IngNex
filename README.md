@@ -136,7 +136,7 @@
       <td width="20%" align="center">
         <a href="https://www.linkedin.com/in/michaelrogger/" target="_blank">
           <br/><img height="60em" src="https://cdn.svgporn.com/logos/linkedin-icon.svg">
-          <br/><br/><b>LinkedIn</b>
+          <br/><b>LinkedIn</b>
         </a>
       </td>
       <td width="20%" align="center">
