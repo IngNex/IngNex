@@ -142,25 +142,25 @@
       <td width="20%" align="center">
         <a href="mailto:michaelrogger.contacto@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
           <br/><img height="60em" src="https://cdn.svgporn.com/logos/google-gmail.svg">
-          <br/><br/><b>Gmail</b>
+          <br/><b>Gmail</b>
         </a>
       </td>
       <td width="20%" align="center">
         <a href="mailto:maicol7090_rm@hotmail.com?Subject=Aquí%20el%20asunto%20del%20mail" target="_blank">
           <br/><img height="60em" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg">
-          <br/><br/><b>Outlook</b>
+          <br/><b>Outlook</b>
         </a>
       </td>
       <td width="20%" align="center">
         <a href="https://platzi.com/p/ingnexmaicol14/" target="_blank">
           <br/><img height="60em" src="https://static.platzi.com/media/platzi-isotipo@2x.png">
-          <br/><br/><b>Platzi</b>
+          <br/><b>Platzi</b>
         </a>
       </td>
       <td width="20%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
           <br/><img height="60em" src="https://cdn.svgporn.com/logos/github-octocat.svg">
-          <br/><br/><b>Github</b>
+          <br/><b>Github</b>
         </a>
       </td>
     </tr>
