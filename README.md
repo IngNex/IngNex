@@ -65,42 +65,6 @@
     </tr>
     <tr valign="top">
       <td width="8%" align="center">
-        <b>Using</b>
-      </td>
-      <td width="8%" align="center">
-         <a href="https://github.com/IngNex" target="_blank">
-          <img height="40em" src="https://cdn.svgporn.com/logos/git-icon.svg">
-        </a>
-      </td>
-      <td width="8%" align="center">
-        <a href="https://github.com/IngNex" target="_blank">
-          <img height="40em" src="https://cdn.svgporn.com/logos/postman-icon.svg"></a>
-      </td>
-      <td width="8%" align="center">
-        <a href="https://github.com/IngNex" target="_blank">
-          <img height="40em" src="https://cdn.svgporn.com/logos/vitejs.svg"></a>
-      </td>
-      <td width="8%" align="center">
-          <a href="https://github.com/IngNex" target="_blank">
-          <img height="40em" src="https://cdn.svgporn.com/logos/figma.svg"></a>
-      </td>
-      <td width="8%" align="center">
-        <a href="https://github.com/IngNex" target="_blank">
-          <img height="40em" src="https://cdn.svgporn.com/logos/python.svg">
-        </a>
-      </td>
-      <td width="8%" align="center">
-          <a href="https://github.com/IngNex" target="_blank">
-          <img height="40em" src="https://cdn.svgporn.com/logos/mysql.svg"></a>
-      </td>
-      <td width="8%" align="center">
-        <a href="https://github.com/IngNex" target="_blank">
-          <img height="40em" src="https://cdn.svgporn.com/logos/xampp.svg">
-        </a>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="8%" align="center">
         <b>MOBILE UI</b>
       </td>
       <td width="8%" align="center">
@@ -132,6 +96,42 @@
       <td width="8%" align="center">
         <a href="https://github.com/IngNex" target="_blank">
           <img height="40em" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        </a>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="8%" align="center">
+        <b>Tools</b>
+      </td>
+      <td width="8%" align="center">
+         <a href="https://github.com/IngNex" target="_blank">
+          <img height="40em" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        </a>
+      </td>
+      <td width="8%" align="center">
+        <a href="https://github.com/IngNex" target="_blank">
+          <img height="40em" src="https://cdn.svgporn.com/logos/postman-icon.svg"></a>
+      </td>
+      <td width="8%" align="center">
+        <a href="https://github.com/IngNex" target="_blank">
+          <img height="40em" src="https://cdn.svgporn.com/logos/vitejs.svg"></a>
+      </td>
+      <td width="8%" align="center">
+          <a href="https://github.com/IngNex" target="_blank">
+          <img height="40em" src="https://cdn.svgporn.com/logos/figma.svg"></a>
+      </td>
+      <td width="8%" align="center">
+        <a href="https://github.com/IngNex" target="_blank">
+          <img height="40em" src="https://cdn.svgporn.com/logos/python.svg">
+        </a>
+      </td>
+      <td width="8%" align="center">
+          <a href="https://github.com/IngNex" target="_blank">
+          <img height="40em" src="https://cdn.svgporn.com/logos/mysql.svg"></a>
+      </td>
+      <td width="8%" align="center">
+        <a href="https://github.com/IngNex" target="_blank">
+          <img height="40em" src="https://cdn.svgporn.com/logos/xampp.svg">
         </a>
       </td>
     </tr>
