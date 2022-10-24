@@ -31,7 +31,7 @@
   <tbody>
     <tr valign="top">
       <td width="8%" align="center">
-        <b>WEB</b>
+        <b>WEBUI|F.B.end</b>
       </td>
       <td width="8%" align="center">
        <a href="https://github.com/IngNex" target="_blank">
@@ -101,7 +101,7 @@
     </tr>
     <tr valign="top">
       <td width="8%" align="center">
-        <b>Tools</b>
+        <b>TOOLS</b>
       </td>
       <td width="8%" align="center">
          <a href="https://github.com/IngNex" target="_blank">
