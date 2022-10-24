@@ -31,7 +31,7 @@
   <tbody>
     <tr valign="top">
       <td width="8%" align="center">
-        <b>WEBUI|F.B.end</b>
+        <b>WEB UI</b>
       </td>
       <td width="8%" align="center">
        <a href="https://github.com/IngNex" target="_blank">
