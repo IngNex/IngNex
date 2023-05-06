@@ -175,3 +175,11 @@
     </tr>
   </tbody>
 </table>
+  
+## 📈 Contribution Graphic
+
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=IngNex&bg_color=0D1117&color=ffffff&line=ef2525&point=ffffff&area=true&hide_border=true)
+  
+ </div>
