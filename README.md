@@ -1,16 +1,20 @@
-## Hi..!! I'm Michael Rodriguez 😁👨🏻‍🎓
-### Nickcode IngNex🐺
+<h1 align="center"><b>Hi , I'm Michael Rodriguez 👨🏻‍🎓 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Agave+Nerd+Font&pause=1000&color=1d05fa&center=true&vCenter=true&width=435&lines=Mobile+Developer+Jr.;Frontend+Developer+Jr.;Love+to+developing+new+stuffs...+%3C3" alt="Typing SVG" /></a>
+</p>
+
+## Nickcode MaicolDev or IngNex🐺
 
 ## 👨🏻‍🎓 Study Systems Engineering
 
-- I'm a Frontend Developer. 📊
-- I'll be a Future Mobile Developer. ⚡
+- I'm a Jr. Mobile Developer...📊
+- I'll be a future backend developer...⚡
 
 ## 💻 My Progress 
 <div align="center">
   <a href="https://github.com/ingnex">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ingnex&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=ingnex&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" alt="IngNex" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ingnex&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=ingnex&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="IngNex" />
 </div>
 
 ## 👨‍💻 GitHub Contributions
@@ -22,8 +26,8 @@
  
 ## 📊 Use Lenguages
 <div align="center">
-  <img width="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&theme=chartreuse-dark"/>
-   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&theme=algolia"/>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnex&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 ## 🚀 Tools I Use
